@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.team {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -111,17 +111,14 @@ p {
     color: #ffffff;
 }
 
-
 #Titles img {
     max-height: 200px;
 }
-
 
 #Titles h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 footer {
     padding: 30px;
